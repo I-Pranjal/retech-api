@@ -1,0 +1,871 @@
+{
+  "data": {
+    "total": 27,
+    "products": [
+      {
+        "id": 679,
+        "title": "Canon EOS R6",
+        "body_html": "<p>Category: Photography, Rating: , Price: 2499</p>",
+        "vendor": "",
+        "product_type": "Photography",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "canon-eos-r6",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "80563724-91e5-4dc9-9e86-9bcc9e6ea187",
+            "title": "Default Variant",
+            "price": "2499",
+            "sku": "SKU-80563724-91e5-4dc9-9e86-9bcc9e6ea187",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/51383/photo-camera-subject-photographer-51383.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Herman Miller Aeron Chair",
+        "body_html": "<p>Category: Furniture, Rating: , Price: 1495</p>",
+        "vendor": "",
+        "product_type": "Furniture",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "herman-miller-aeron-chair",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "a720c606-4637-439f-803d-b86124af5644",
+            "title": "Default Variant",
+            "price": "1495",
+            "sku": "SKU-a720c606-4637-439f-803d-b86124af5644",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Dyson V15 Detect",
+        "body_html": "<p>Category: Home & Kitchen, Rating: , Price: 749</p>",
+        "vendor": "",
+        "product_type": "Home & Kitchen",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "dyson-v15-detect",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "331cc0ee-a068-4dc7-bd28-1afc98f6a2ae",
+            "title": "Default Variant",
+            "price": "749",
+            "sku": "SKU-331cc0ee-a068-4dc7-bd28-1afc98f6a2ae",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/4109800/pexels-photo-4109800.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/4109800/pexels-photo-4109800.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Patagonia Down Jacket",
+        "body_html": "<p>Category: Clothing, Rating: , Price: 229</p>",
+        "vendor": "",
+        "product_type": "Clothing",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "patagonia-down-jacket",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "bfc95216-7d26-47a5-ae82-cb851ddf23e8",
+            "title": "Default Variant",
+            "price": "229",
+            "sku": "SKU-bfc95216-7d26-47a5-ae82-cb851ddf23e8",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/1183266/pexels-photo-1183266.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "KitchenAid Stand Mixer",
+        "body_html": "<p>Category: Home & Kitchen, Rating: , Price: 399</p>",
+        "vendor": "",
+        "product_type": "Home & Kitchen",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "kitchenaid-stand-mixer",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "abfa08ac-4419-4b64-aa1b-d0a302d5bedf",
+            "title": "Default Variant",
+            "price": "399",
+            "sku": "SKU-abfa08ac-4419-4b64-aa1b-d0a302d5bedf",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/4099235/pexels-photo-4099235.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/4099235/pexels-photo-4099235.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Samsung 65\" QLED 4K TV",
+        "body_html": "<p>Category: Electronics, Rating: , Price: 1299</p>",
+        "vendor": "",
+        "product_type": "Electronics",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "samsung-65\"-qled-4k-tv",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "c00048e1-84ee-4892-ac89-f87b57d1fcd8",
+            "title": "Default Variant",
+            "price": "1299",
+            "sku": "SKU-c00048e1-84ee-4892-ac89-f87b57d1fcd8",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/6782581/pexels-photo-6782581.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/6782581/pexels-photo-6782581.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Nike Air Zoom Pegasus 38",
+        "body_html": "<p>Category: Footwear, Rating: , Price: 120</p>",
+        "vendor": "",
+        "product_type": "Footwear",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "nike-air-zoom-pegasus-38",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "2d584cfe-2e02-4187-b2a6-3a3ae5970340",
+            "title": "Default Variant",
+            "price": "120",
+            "sku": "SKU-2d584cfe-2e02-4187-b2a6-3a3ae5970340",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Sony WH-1000XM4",
+        "body_html": "<p>Category: Electronics, Rating: , Price: 349</p>",
+        "vendor": "",
+        "product_type": "Electronics",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "sony-wh-1000xm4",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "36d7c6b5-8144-4df4-af64-fc1b44a99d3f",
+            "title": "Default Variant",
+            "price": "349",
+            "sku": "SKU-36d7c6b5-8144-4df4-af64-fc1b44a99d3f",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Cotton T-Shirt Pack",
+        "body_html": "<p>Category: Clothing, Rating: , Price: 24.99</p>",
+        "vendor": "",
+        "product_type": "Clothing",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "cotton-t-shirt-pack",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "7037e262-6da0-4f89-a291-79083d378dfa",
+            "title": "Default Variant",
+            "price": "24.99",
+            "sku": "SKU-7037e262-6da0-4f89-a291-79083d378dfa",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/428340/pexels-photo-428340.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Yoga Mat",
+        "body_html": "<p>Category: Fitness, Rating: , Price: 19.99</p>",
+        "vendor": "",
+        "product_type": "Fitness",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "yoga-mat",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "81a88f73-14d6-4912-a3f2-882f7b466b2a",
+            "title": "Default Variant",
+            "price": "19.99",
+            "sku": "SKU-81a88f73-14d6-4912-a3f2-882f7b466b2a",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/374101/pexels-photo-374101.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/374101/pexels-photo-374101.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Phone Charging Cable",
+        "body_html": "<p>Category: Electronics, Rating: , Price: 12.99</p>",
+        "vendor": "",
+        "product_type": "Electronics",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "phone-charging-cable",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "26652a57-ed46-4751-8de8-79bf26420c50",
+            "title": "Default Variant",
+            "price": "12.99",
+            "sku": "SKU-26652a57-ed46-4751-8de8-79bf26420c50",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/4526407/pexels-photo-4526407.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/4526407/pexels-photo-4526407.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Coffee Mug Set",
+        "body_html": "<p>Category: Kitchen, Rating: , Price: 29.99</p>",
+        "vendor": "",
+        "product_type": "Kitchen",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "coffee-mug-set",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "9785c5f4-6e2a-4ecd-843a-5089d96ba3cc",
+            "title": "Default Variant",
+            "price": "29.99",
+            "sku": "SKU-9785c5f4-6e2a-4ecd-843a-5089d96ba3cc",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/1793035/pexels-photo-1793035.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/1793035/pexels-photo-1793035.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Garden Tools Set",
+        "body_html": "<p>Category: Garden, Rating: , Price: 34.99</p>",
+        "vendor": "",
+        "product_type": "Garden",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "garden-tools-set",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "ffa5b4c8-d658-43ee-9ff0-988c092761a4",
+            "title": "Default Variant",
+            "price": "34.99",
+            "sku": "SKU-ffa5b4c8-d658-43ee-9ff0-988c092761a4",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/2132227/pexels-photo-2132227.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/2132227/pexels-photo-2132227.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Reading Glasses",
+        "body_html": "<p>Category: Accessories, Rating: , Price: 15.99</p>",
+        "vendor": "",
+        "product_type": "Accessories",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "reading-glasses",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "ff777f72-8842-41aa-9113-a0af16cc2619",
+            "title": "Default Variant",
+            "price": "15.99",
+            "sku": "SKU-ff777f72-8842-41aa-9113-a0af16cc2619",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Kitchen Scale",
+        "body_html": "<p>Category: Kitchen, Rating: , Price: 18.99</p>",
+        "vendor": "",
+        "product_type": "Kitchen",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "kitchen-scale",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "94967cc6-b135-4530-a526-9918add41f3d",
+            "title": "Default Variant",
+            "price": "18.99",
+            "sku": "SKU-94967cc6-b135-4530-a526-9918add41f3d",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/4226896/pexels-photo-4226896.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/4226896/pexels-photo-4226896.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Desk Organizer",
+        "body_html": "<p>Category: Office, Rating: , Price: 24.99</p>",
+        "vendor": "",
+        "product_type": "Office",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "desk-organizer",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "d2b92790-425c-465d-a354-0fe882d667c1",
+            "title": "Default Variant",
+            "price": "24.99",
+            "sku": "SKU-d2b92790-425c-465d-a354-0fe882d667c1",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/3735149/pexels-photo-3735149.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/3735149/pexels-photo-3735149.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Water Bottle",
+        "body_html": "<p>Category: Sports, Rating: , Price: 16.99</p>",
+        "vendor": "",
+        "product_type": "Sports",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "water-bottle",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "1718c7c7-98f8-4e46-9d4d-66f20b504298",
+            "title": "Default Variant",
+            "price": "16.99",
+            "sku": "SKU-1718c7c7-98f8-4e46-9d4d-66f20b504298",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/1342529/pexels-photo-1342529.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/1342529/pexels-photo-1342529.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Hand Towel Set",
+        "body_html": "<p>Category: Home, Rating: , Price: 22.99</p>",
+        "vendor": "",
+        "product_type": "Home",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "hand-towel-set",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "ae6a3aec-53e1-47c5-a41d-f805098bb5d2",
+            "title": "Default Variant",
+            "price": "22.99",
+            "sku": "SKU-ae6a3aec-53e1-47c5-a41d-f805098bb5d2",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/3771110/pexels-photo-3771110.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/3771110/pexels-photo-3771110.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Bluetooth Speaker",
+        "body_html": "<p>Category: Electronics, Rating: , Price: 39.99</p>",
+        "vendor": "",
+        "product_type": "Electronics",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "bluetooth-speaker",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "cf01aee0-1c80-4a30-adbc-0de74f99eed9",
+            "title": "Default Variant",
+            "price": "39.99",
+            "sku": "SKU-cf01aee0-1c80-4a30-adbc-0de74f99eed9",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/1279107/pexels-photo-1279107.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Plant Pot Set",
+        "body_html": "<p>Category: Garden, Rating: , Price: 28.99</p>",
+        "vendor": "",
+        "product_type": "Garden",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "plant-pot-set",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "2d4930bb-f63a-4a19-b3a3-99cda0d42a71",
+            "title": "Default Variant",
+            "price": "28.99",
+            "sku": "SKU-2d4930bb-f63a-4a19-b3a3-99cda0d42a71",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/1166644/pexels-photo-1166644.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/1166644/pexels-photo-1166644.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Mouse Pad",
+        "body_html": "<p>Category: Office, Rating: , Price: 9.99</p>",
+        "vendor": "",
+        "product_type": "Office",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "mouse-pad",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "be1ec5a2-f0dd-4adb-b4ff-349676e55a33",
+            "title": "Default Variant",
+            "price": "9.99",
+            "sku": "SKU-be1ec5a2-f0dd-4adb-b4ff-349676e55a33",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Cutting Board",
+        "body_html": "<p>Category: Kitchen, Rating: , Price: 19.99</p>",
+        "vendor": "",
+        "product_type": "Kitchen",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "cutting-board",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "162d986e-f77b-451f-9a18-ca7b07cc0dc0",
+            "title": "Default Variant",
+            "price": "19.99",
+            "sku": "SKU-162d986e-f77b-451f-9a18-ca7b07cc0dc0",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/4226070/pexels-photo-4226070.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/4226070/pexels-photo-4226070.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Resistance Bands",
+        "body_html": "<p>Category: Fitness, Rating: , Price: 14.99</p>",
+        "vendor": "",
+        "product_type": "Fitness",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "resistance-bands",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "ce343f17-2255-464b-ba39-ff5e537b4e68",
+            "title": "Default Variant",
+            "price": "14.99",
+            "sku": "SKU-ce343f17-2255-464b-ba39-ff5e537b4e68",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/4397840/pexels-photo-4397840.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/4397840/pexels-photo-4397840.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Sunglasses",
+        "body_html": "<p>Category: Accessories, Rating: , Price: 24.99</p>",
+        "vendor": "",
+        "product_type": "Accessories",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "sunglasses",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "a38e5530-9dbe-4f22-8223-5255fcdaa5f3",
+            "title": "Default Variant",
+            "price": "24.99",
+            "sku": "SKU-a38e5530-9dbe-4f22-8223-5255fcdaa5f3",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Wireless Mouse",
+        "body_html": "<p>Category: Electronics, Rating: , Price: 29.99</p>",
+        "vendor": "",
+        "product_type": "Electronics",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "wireless-mouse",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "6c874d8d-e9ff-4f0d-a95a-cf46709ded5f",
+            "title": "Default Variant",
+            "price": "29.99",
+            "sku": "SKU-6c874d8d-e9ff-4f0d-a95a-cf46709ded5f",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/5082579/pexels-photo-5082579.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Food Storage Containers",
+        "body_html": "<p>Category: Kitchen, Rating: , Price: 32.99</p>",
+        "vendor": "",
+        "product_type": "Kitchen",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "food-storage-containers",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "76f7775f-8ebd-4ad9-982c-473b58985e42",
+            "title": "Default Variant",
+            "price": "32.99",
+            "sku": "SKU-76f7775f-8ebd-4ad9-982c-473b58985e42",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/4226896/pexels-photo-4226896.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/4226896/pexels-photo-4226896.jpeg"
+        }
+      },
+      {
+        "id": 679,
+        "title": "Baseball Cap",
+        "body_html": "<p>Category: Clothing, Rating: , Price: 17.99</p>",
+        "vendor": "",
+        "product_type": "Clothing",
+        "created_at": "2025-02-09T16:42:37.046Z",
+        "handle": "baseball-cap",
+        "updated_at": "2025-02-09T16:42:37.046Z",
+        "tags": "",
+        "status": "inactive",
+        "variants": [
+          {
+            "id": "85486eb5-92ee-4d2d-8b0b-596cf490fb6e",
+            "title": "Default Variant",
+            "price": "17.99",
+            "sku": "SKU-85486eb5-92ee-4d2d-8b0b-596cf490fb6e",
+            "created_at": "2025-02-09T16:42:37.046Z",
+            "updated_at": "2025-02-09T16:42:37.046Z",
+            "taxable": true,
+            "grams": "",
+            "image": {
+              "src": "https://images.pexels.com/photos/1124465/pexels-photo-1124465.jpeg"
+            },
+            "weight": "",
+            "weight_unit": ""
+          }
+        ],
+        "image": {
+          "src": "https://images.pexels.com/photos/1124465/pexels-photo-1124465.jpeg"
+        }
+      }
+    ]
+  }
+}

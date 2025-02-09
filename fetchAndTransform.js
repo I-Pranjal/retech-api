@@ -6,7 +6,6 @@ const apiUrl = "https://api.merabestie.com/get-product";
 
 // Function to transform the data
 const transformData = (data) => {
-  // Ensure the data is an array
   if (!Array.isArray(data)) {
     console.error("Expected an array but received:", typeof data, data);
     throw new Error("Data is not an array. Check the API response format.");
@@ -51,30 +50,27 @@ const transformData = (data) => {
   };
 };
 
-// Function to fetch and process data
-const fetchDataAndTransform = async () => {
+// Function to fetch and update the transformed data file
+const fetchDataAndUpdateFile = async () => {
   try {
-    // Fetch data from the API
+    console.log("Fetching data...");
     const response = await axios.get(apiUrl);
-
-    // Log the response structure for debugging
     console.log("Raw API Response:", response.data);
 
-    // Extract and transform the data
     const currentData = Array.isArray(response.data)
       ? response.data
-      : response.data.products || []; // Adjust based on API response
+      : response.data.products || [];
 
     const transformedData = transformData(currentData);
 
-    // Save the transformed data to a JSON file
+    // Overwrite the transformedData.json file
     fs.writeFileSync("transformedData.json", JSON.stringify(transformedData, null, 2), "utf-8");
 
-    console.log("Data fetched and transformed successfully!");
+    console.log("File 'transformedData.json' updated successfully!");
   } catch (error) {
     console.error("Error fetching data:", error.message);
   }
 };
 
-// Run the script
-fetchDataAndTransform();
+// Run the script every time it's called
+fetchDataAndUpdateFile();
