@@ -77,6 +77,8 @@ const fetchDataAndUpdateFile = async () => {
   }
 };
 
+
+
 // Favicon request handler
 app.get('/favicon.ico', (req, res) => res.status(204).end());
 
