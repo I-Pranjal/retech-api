@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 
 // API URL
-const apiUrl = "https://api.merabestie.com/get-product";
+const apiUrl = "https://api.merabestie.com/get-product";  // This is the URL that we are accessing
 
 // Function to transform the data
 const transformData = (data) => {
