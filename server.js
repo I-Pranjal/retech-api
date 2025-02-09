@@ -2,7 +2,7 @@ const express = require('express');
 const axios = require('axios');
 const fs = require('fs');
 const app = express();
-const port = 3000;
+const port = 5000;
 
 // API URL
 const apiUrl = "https://api.merabestie.com/get-product";  // This is the URL that we are accessing
