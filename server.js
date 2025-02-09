@@ -1,11 +1,10 @@
 const express = require('express');
 const axios = require('axios');
-const fs = require('fs');
 const app = express();
 const port = 5000;
 
 // API URL
-const apiUrl = "https://api.merabestie.com/get-product";  // This is the URL that we are accessing
+const apiUrl = "https://api.merabestie.com/get-product";
 
 // Function to transform the data
 const transformData = (data) => {
@@ -53,8 +52,8 @@ const transformData = (data) => {
   };
 };
 
-// Function to fetch and update the transformed data file
-const fetchDataAndUpdateFile = async () => {
+// Function to fetch and return updated data
+const fetchDataAndUpdate = async () => {
   try {
     console.log("Fetching latest data...");
     const response = await axios.get(apiUrl);
@@ -64,33 +63,22 @@ const fetchDataAndUpdateFile = async () => {
       ? response.data
       : response.data.products || [];
 
-    const transformedData = transformData(currentData);
-
-    // Overwrite the transformedData.json file
-    fs.writeFileSync("transformedData.json", JSON.stringify(transformedData, null, 2), "utf-8");
-
-    console.log("File 'transformedData.json' updated successfully!");
-    return transformedData;
+    return transformData(currentData);
   } catch (error) {
     console.error("Error fetching data:", error.message);
-    return { data: null }; // Return empty data on error
+    return { data: null };
   }
 };
 
-
-
-// Favicon request handler
-app.get('/favicon.ico', (req, res) => res.status(204).end());
-
-// API endpoint to return products data
+// API endpoint to return updated product data
 app.get('/products', async (req, res) => {
   const page = parseInt(req.query.page) || 1;
   const limit = parseInt(req.query.limit) || 100;
   const start = (page - 1) * limit;
   const end = page * limit;
 
-  // Fetch and update data before responding
-  const updatedData = await fetchDataAndUpdateFile();
+  // Fetch updated data from API
+  const updatedData = await fetchDataAndUpdate();
   const products = updatedData.data ? updatedData.data.products : [];
 
   // Paginate the data
